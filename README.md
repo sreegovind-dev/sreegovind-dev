@@ -44,5 +44,5 @@ Personalized Arch Linux setup with Hyprland.
 
 ## 📫 Contact
 
-* Email: Sree Govind
+* Email: sreegovind723@gmail.com
 * LinkedIn: www.linkedin.com/in/sreegovind-ai
