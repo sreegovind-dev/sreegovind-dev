@@ -1,7 +1,7 @@
 # Hi, I'm SreeGovind 👋
 
 💻 Aspiring Software Developer
-🚀 Passionate about Python, Linux, and building useful applications
+🚀 Passionate about Python, Linux, and building real-world applications
 📍 India
 
 ---
@@ -13,21 +13,36 @@
 
 ---
 
-## 📂 Projects
+## 🚀 Projects
 
-🔹 Calculator App (Kivy)
-🔹 Linux Customization (Hyprland Setup)
+🔹 **Cashflow Analyzer 💰**
+A Python-based tool to track income, expenses, and analyze savings.
+
+🔹 **Calculator App (Kivy)**
+A simple GUI calculator built using Python and Kivy.
+
+🔹 **Linux Customization (Hyprland Setup)**
+Personalized Arch Linux setup with Hyprland.
+
 
 ---
 
 ## 🌱 Currently Learning
 
-* Advanced Python
 * Backend Development
+* Advanced Python
+
+---
+
+## 🎯 Goals
+
+* Build real-world applications
+* Contribute to open source
+* Get placed as a Software Developer
 
 ---
 
 ## 📫 Contact
 
-* Email: (add your email later)
-* LinkedIn: (we’ll add later)
+* Email: Sree Govind
+* LinkedIn: www.linkedin.com/in/sreegovind-ai
